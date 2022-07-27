@@ -1,1 +1,2 @@
-### A Colab Playground where I do random stuff with some legal documents that feels illegal to read.
+### Hello
+Don't bother to check the code, I just found you can commit your colab codes on github. (I didn't know that :/ )
